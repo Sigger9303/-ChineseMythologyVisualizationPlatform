@@ -1,1 +1,1 @@
-# -ChineseMythologyVisualizationPlatform
+# ChineseMythologyVisualizationPlatform
